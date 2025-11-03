@@ -16,3 +16,5 @@ I created simple collection type named `Category`.
     - color, custom field to select color (based on @strapi/plugin-color-picker)
 
 With this data structure strapi fails after `yarn dev` with error: `Error: Could not find Custom Field: plugin::color-picker.color`
+
+![image](https://raw.githubusercontent.com/PidginEnemy/strapi5-rest-cache-bug/refs/heads/main/public/stratup_error.png)

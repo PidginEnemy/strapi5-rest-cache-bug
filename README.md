@@ -2,6 +2,8 @@
 
 This repo cretated to demonstrate a bug when use plugin rest cache with any strapi custom field in schema.
 
+I would be grateful for help in resolving this problem in this issue: [https://github.com/strapi-community/plugin-rest-cache/issues/119](https://github.com/strapi-community/plugin-rest-cache/issues/119)
+
 ## What's inside
 
 - new blank strapi 5 project

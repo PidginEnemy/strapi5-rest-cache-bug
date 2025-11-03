@@ -1,4 +1,4 @@
-# 🚀 Strapi 5 + plugin rest cache + custom field
+# 😵‍💫 Strapi 5 + plugin rest cache + custom field
 
 This repo cretated to demonstrate a bug when use plugin rest cache with any strapi custom field in schema.
 
